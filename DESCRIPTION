@@ -8,5 +8,5 @@ Description: The functions in the package computes and creates matrix-formatted 
 License: GPL-3
 Imports: coin, dplyr, survival 
 Encoding: UTF-8
-LazyData: TRUE
+LazyData: FALSE
 RoxygenNote: 7.1.1
