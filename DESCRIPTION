@@ -1,0 +1,12 @@
+Package: easytab
+Type: Package
+Title: Functions that create result tables easily
+Version: 0.1.0
+Author: Hyunsoo Hwang
+Maintainer: Hyunsoo Hwang <ilsanjoa@gmail.com>
+Description: The functions in the package computes and creates matrix-formatted tables, which can be displayed in word, pdf, and html format. Since the process of table generation is very time-consuming, this package was intended to help researchers to save time and effort when creating research tables in R. The package offers useful functions for tables that summarize baseline characteristics table and regression tables such as logistic, Cox proportional hazard (PH), and linear regressions.
+License: GPL-3
+Imports: coin, dplyr, survival 
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.1.1
